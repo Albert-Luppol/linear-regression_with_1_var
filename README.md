@@ -1,1 +1,1 @@
-# linear-regression_with_1_var
+# Array of x,y - inputs; Q0,Q1 - outputs
